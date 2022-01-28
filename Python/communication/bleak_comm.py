@@ -6,9 +6,6 @@ from loguru import logger
 
 
 class BleakComm:
-    """
-    This class supports BLE communication based on the gatttool, was found to be incompatible with the nRF52840 dongle.
-    """
 
     def __init__(self, devices, callbacks):
         """
