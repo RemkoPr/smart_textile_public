@@ -5,3 +5,5 @@
 
 ### Additional notes
 Instead of using SMD solder paste for the connection between thread and PCB, we may also suggest RS Pro Silver Paint and e.g. hot glue.
+
+<img src="https://github.com/RemkoPr/smart_textile_public/blob/main/Manufacturing/TextileManufacturing.png">
